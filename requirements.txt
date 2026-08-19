@@ -1,0 +1,8 @@
+mediapipe
+opencv-python
+scikit-learn
+pandas
+numpy
+pyttsx3
+python-osc
+anthropic

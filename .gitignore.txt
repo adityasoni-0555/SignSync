@@ -1,0 +1,16 @@
+# Python cache & temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secret API keys
+.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Large training data/model files (optional)
+gesture_data.csv
+*.pkl
